@@ -1,6 +1,6 @@
-#Rendu API
-##<strong>Cyril LAMIRAND - Jules DAYAUX</strong>
-### <u>How to begin the project?</u>
+<h1>Rendu API</h1>
+<h2><strong>Cyril LAMIRAND - Jules DAYAUX</strong></h2>
+<h3><u>How to begin the project?</u></h3>
 
 <ul>
 <li>run <code>npm install</code> or <code>npm i</code></li>
